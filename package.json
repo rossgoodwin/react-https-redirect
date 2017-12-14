@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mbasso/react-https-redirect.git"
+    "url": "git+https://github.com/rossgoodwin/react-https-redirect.git"
   },
   "keywords": [
     "react",
